@@ -1,0 +1,15 @@
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\bin\Debug\net6.0\NO2.exe
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\bin\Debug\net6.0\NO2.deps.json
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\bin\Debug\net6.0\NO2.runtimeconfig.json
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\bin\Debug\net6.0\NO2.dll
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\bin\Debug\net6.0\NO2.pdb
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.csproj.AssemblyReference.cache
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.AssemblyInfoInputs.cache
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.AssemblyInfo.cs
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.csproj.CoreCompileInputs.cache
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.dll
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\refint\NO2.dll
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.pdb
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\NO2.genruntimeconfig.cache
+C:\Users\Sai\Desktop\C#prog\Tuts\NO2\NO2\obj\Debug\net6.0\ref\NO2.dll
